@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screencast_10.2", "Screenca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_10.2.2", "Task_10.2.2\Task_10.2.2.csproj", "{5FD5CC42-A03D-47BC-AB69-EC1B287A487D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_10.2.3", "Task_10.2.3\Task_10.2.3.csproj", "{61462A0E-66D2-4A35-B3A4-B3B8EFC16D65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5FD5CC42-A03D-47BC-AB69-EC1B287A487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FD5CC42-A03D-47BC-AB69-EC1B287A487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FD5CC42-A03D-47BC-AB69-EC1B287A487D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61462A0E-66D2-4A35-B3A4-B3B8EFC16D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61462A0E-66D2-4A35-B3A4-B3B8EFC16D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61462A0E-66D2-4A35-B3A4-B3B8EFC16D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61462A0E-66D2-4A35-B3A4-B3B8EFC16D65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
