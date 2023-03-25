@@ -4,16 +4,6 @@
     {
         static void Main(string[] args)
         {
-            IFile file = new FileInfo();
-            IBinaryFile binaryFile = new FileInfo();
-            FileInfo fileInfo = new FileInfo();
-
-            file.ReadFile();
-
-            binaryFile.ReadFile();
-            binaryFile.OPenBinaryFile();
-
-            fileInfo.Search("Строка для поиска");
 
         }
     }
