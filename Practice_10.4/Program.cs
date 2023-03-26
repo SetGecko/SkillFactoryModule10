@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
+            IMessenger<Phone> viberInPhone = new Viber<Phone>();
+            viberInPhone.GetDeviceInfo(new Phone());
 
+            IMessenger<IPhone> viberInIphone = new Viber<IPhone>();
+            viberInIphone.GetDeviceInfo(new IPhone());
         }
     }
     public interface IMessenger< out T>
